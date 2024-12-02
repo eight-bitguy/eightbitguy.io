@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "emailjs-com": "^2.6.3",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "preact": "^10.4.6",
     "preact-router": "^3.2.1",
     "react-scripts": "3.4.1"
